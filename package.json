@@ -1,0 +1,30 @@
+{
+  "name": "voicebot",
+  "version": "1.0.0",
+  "description": "simple voice chat bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "ibm",
+    "bluemix",
+    "bot",
+    "speech",
+    "stt",
+    "text",
+    "voice",
+    "conversation",
+    "chat"
+  ],
+  "author": "Habibi Mustafa",
+  "license": "ISC",
+  "dependencies": {
+    "blob-stream": "^0.1.3",
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3",
+    "socket.io-stream": "^0.9.1",
+    "watson-developer-cloud": "^3.4.5",
+    "wav": "^1.0.1"
+  }
+}
