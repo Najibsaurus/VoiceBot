@@ -7,4 +7,4 @@ Simple Voice Bot using IBM Watson Service
 - Deploy to Bluemix
 
 ## DEMO
-https://voicebot.mybluemix.net/
+https://thevoicebot.mybluemix.net/
